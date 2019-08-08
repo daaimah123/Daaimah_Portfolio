@@ -15,14 +15,25 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Associate Engineer<span>July 2019 - current</span></h2>
+                        <p>Migrating SCA API changes for new Stripe 3D payment verification. Working with JavaScript (React), Python (Jinja & Pyramid), Ubuntu, Linux & Docker </p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        {/* <h2>Internship at Juniper <span>2019-present</span></h2> */}
-                        {/* <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p> */}
+                        <h2>Software Engineer Apprentice<span>January 2019 - June 2019</span></h2>
+                        <p>Implemented RESTful API web application using Node.js, React.js and PostgreSQL with interactive UI that helped logged in parent users search from a local user database in order to connect with other parents regarding playdates, professional advising or networking. </p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        {/* <h2>Undergraduation at DAIICT<span>2015-2019</span></h2> */}
-                        {/* <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p> */}
+                         <h2>Microsoft Fellow <span>2019</span></h2>
+                         <p>Implemented RESTful API web application using Node.js, React.js and PostgreSQL with interactive UI that helped logged in parent users search from a local user database in order to connect with other parents regarding playdates, professional advising or networking. </p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +54,11 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        {/* <h2>Primary and Higher Education <span>2003-2015</span></h2> */}
-                        {/* <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p>  */}
+                         <h2>Operations Site Supervisor <span>2016 - 2019</span></h2>
+                         <p>Provided on-the-job training for 9 persons with disabilities which enhanced operations and was active liaison for Veteran’s Affairs. </p>
+                         <p>Resolved 3 district tickets with telecommunications to resolve network congestion by 33% which resulted in more efficient call times.</p>
+                         <p>Created company-wide onboarding process implemented at 3 sites and leadership FAQ manual training 5 executive staff members.</p>
+                         <p>Consistent positive feedback from supervisory and executive staff for meeting deadlines with accuracy and leadership.</p>
                       </div>
                     </div>
                   </article>
