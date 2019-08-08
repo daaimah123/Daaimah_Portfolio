@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f741d752d6600a1af382",
+    "revision": "f6e8c2e90b4e6e5f95b4",
     "url": "/Daaimah_Portfolio/static/css/main.08ed50ef.chunk.css"
   },
   {
-    "revision": "f741d752d6600a1af382",
-    "url": "/Daaimah_Portfolio/static/js/main.f741d752.chunk.js"
+    "revision": "f6e8c2e90b4e6e5f95b4",
+    "url": "/Daaimah_Portfolio/static/js/main.f6e8c2e9.chunk.js"
   },
   {
     "revision": "baa4938e26578452de72",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Daaimah_Portfolio/static/js/2.5ec21d73.chunk.js"
   },
   {
-    "revision": "4c50ddf6b8cdb6824dd3317ce59b3bfc",
+    "revision": "7764119ceea8e73e1fbb32a66ea7bc70",
     "url": "/Daaimah_Portfolio/index.html"
   }
 ];

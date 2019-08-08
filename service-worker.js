@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Daaimah_Portfolio/precache-manifest.7272b4b55d73af243ee2bd8969e531ed.js"
+  "/Daaimah_Portfolio/precache-manifest.8e2723e046ff2ef7953c81a58248de65.js"
 );
 
 workbox.clientsClaim();
