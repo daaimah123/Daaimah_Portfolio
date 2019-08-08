@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                          <h2>Microsoft Fellow <span>2019</span></h2>
-                         <p>Implemented RESTful API web application using Node.js, React.js and PostgreSQL with interactive UI that helped logged in parent users search from a local user database in order to connect with other parents regarding playdates, professional advising or networking. </p>
+                         <p>Built a civic hub resource that encompasses major county and city departments that proved useful to residents and municipal workers alike. Worked with a remotely diverse team to build a full stack third-party project requested for live use using PHP, JavaScript, HTML, and SQL.</p>
                       </div>
                     </div>
                   </article>
