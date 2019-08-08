@@ -11,7 +11,7 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>Coming from a nonprofit framework braking barriers for underserved populations has always been a passion, it gave me agency to defy challenges with evolving determination. In relocating to San Francisco, navigating my own exceptional barriers, I grew closer to tech. My normative transitioned from regularly being without my phone for days at a time, into employing it as my daily personal broker. Resourcefully, I leveraged technologies it held to discover, advocate, and resolve my circumstances. My experience heightened my awareness to disconnect between technology and unequal access to opportunity.</p>
                     <p>I've cultivated a unique skillset having been a professional artisan sandwhich maker, a grant writer and data analyst, a grassroots developmental operations management, a government contracted liason for special population workforce development, and my favorite and a director of two litte people operations 24/7. </p>
@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building websites using JavaScript,React,HTML,CSS</p>
                 </div>
                 </div>
             </div>
@@ -48,8 +48,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    {/* <h3>Data Structures & Algorithms</h3> */}
+                    {/* <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p> */}
                 </div>
                 </div>
             </div>
@@ -59,8 +59,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    {/* <h3>Dev Ops</h3> */}
+                    {/* <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p> */}
                 </div>
                 </div>
             </div>
