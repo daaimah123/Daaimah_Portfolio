@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Associate Engineer<span>July 2019 - current</span></h2>
+                        <h2>Associate Engineer | SurveyMonkey <span>July 2019 - current</span></h2>
                         <p>Migrating SCA API changes for new Stripe 3D payment verification. Working with JavaScript (React), Python (Jinja & Pyramid), Ubuntu, Linux & Docker </p>
                       </div>
                     </div>
@@ -32,7 +32,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Engineer Apprentice<span>January 2019 - June 2019</span></h2>
+                        <h2>Software Engineer Apprentice | Techtonica <span>January 2019 - June 2019</span></h2>
                         <p>Implemented RESTful API web application using Node.js, React.js and PostgreSQL with interactive UI that helped logged in parent users search from a local user database in order to connect with other parents regarding playdates, professional advising or networking. </p>
                       </div>
                     </div>
@@ -43,7 +43,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                         <h2>Microsoft Fellow <span>2019</span></h2>
+                         <h2>Microsoft Fellow  | Code Tenderloin <span>April 2019 - June 2019</span></h2>
                          <p>Built a civic hub resource that encompasses major county and city departments that proved useful to residents and municipal workers alike. Worked with a remotely diverse team to build a full stack third-party project requested for live use using PHP, JavaScript, HTML, and SQL.</p>
                       </div>
                     </div>
@@ -54,11 +54,11 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                         <h2>Operations Site Supervisor <span>2016 - 2019</span></h2>
-                         <p>Provided on-the-job training for 9 persons with disabilities which enhanced operations and was active liaison for Veteran’s Affairs. </p>
-                         <p>Resolved 3 district tickets with telecommunications to resolve network congestion by 33% which resulted in more efficient call times.</p>
-                         <p>Created company-wide onboarding process implemented at 3 sites and leadership FAQ manual training 5 executive staff members.</p>
-                         <p>Consistent positive feedback from supervisory and executive staff for meeting deadlines with accuracy and leadership.</p>
+                         <h2>Operations Site Supervisor | Project HIRED <span>2016 - 2019</span></h2>
+                         <p>Provided on-the-job training for 9 persons with disabilities which enhanced operations and was active liaison for Veteran’s Affairs.
+                         Resolved 3 district tickets with telecommunications to resolve network congestion by 33% which resulted in more efficient call times.
+                         Created company-wide onboarding process implemented at 3 sites and leadership FAQ manual training 5 executive staff members.
+                         Consistent positive feedback from supervisory and executive staff for meeting deadlines with accuracy and leadership.</p>
                       </div>
                     </div>
                   </article>
