@@ -12,6 +12,7 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "^5.0.1",
     "travis": "^0.1.1",
+    "uri-js": "^4.2.2",
     "yarn": "^1.13.0"
   },
   "scripts": {
