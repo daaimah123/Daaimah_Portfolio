@@ -6,10 +6,8 @@
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
     
-##### deployed app : https://daaimah123.github.io/Daaimah_Portfolio/
+##### Poke Around the Published Portfolio: https://daaimah123.github.io/Daaimah_Portfolio/
 
-![description](/src/images/intropic.png)
-![description](/src/images/aboutpic.png)
-![description](/src/images/timelinepic.png)
+![GIF of Daaimah Tibrey's Live Portfolio](/src/images/DTibrey Portfolio.gif)
 
 Credit to original implementaion code: '[How to create your portfolio website using React.js](https://medium.freecodecamp.org/portfolio-app-using-react-618814e35843)'
