@@ -9,6 +9,6 @@ This is the implementaion code for the blog I have written '[How to create your 
     
 ##### deployed app : https://daaimah123.github.io/Daaimah_Portfolio/
 
-![description](public/images/intropic.png)
-![description](public/images/aboutpic.png)
-![description](public/images/timelinepic.png)
+![description](images/intropic.png)
+![description](images/aboutpic.png)
+![description](images/timelinepic.png)

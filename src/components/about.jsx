@@ -24,25 +24,49 @@ export default class About extends Component {
         </section>
         <section className="colorlib-about">
         <div className="colorlib-narrow-content">
-            <div className="row">
-            <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
-            </div>
-            </div>
-            <div className="row row-pt-md">
+          <div className="row">
+          <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+              <span className="heading-meta">What I do?</span>
+              <h2 className="colorlib-heading">Here are some of my expertise</h2>
+          </div>
+          </div>
+          <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
+              <div className="services color-1">
                 <span className="icon">
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites using JavaScript,React,HTML,CSS</p>
+                    <h3>Full Stack Web Development </h3>
+                    <p>JavaScript (React, Node, Express, TypeScript) · HTML · (S)CSS · PHP · Python (Pyramid & Jinja)</p>
+                    <p>Git(Hub) · REST · APIs · HTTPS · CORS · Firebase</p>
                 </div>
+              </div>
+            </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
+                  <span className="icon">
+                      <i className="icon-phone3" />
+                  </span>
+                  <div className="desc">
+                      <h3>Testing</h3>
+                      <p>Jest · Jasmine · MochaJS  · Chai · Enzyme · React Testing Library</p>
+                      <p>Integration · Functional · Unit </p>
+                  </div>
                 </div>
             </div>
+            <div className="col-md-4 text-center animate-box">
+                <div className="services color-5">
+                  <span className="icon">
+                      <i className="icon-data" />
+                  </span>
+                  <div className="desc">
+                      <h3>DataBase Management</h3>
+                      <p>(Postgre)SQL · MongoDB · GraphQL  · R · Postman</p>
+                  </div>
+                </div>
             </div>
+          </div>
         </div>
         </section>
       </div>
