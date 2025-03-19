@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Daaimah_Portfolio/static/css/main.f48a98bf.css",
-    "main.js": "/Daaimah_Portfolio/static/js/main.d0e4a8f5.js",
+    "main.js": "/Daaimah_Portfolio/static/js/main.ad17cc19.js",
     "static/media/blog-4.jpg": "/Daaimah_Portfolio/static/media/blog-4.c865d60d77d2912abda1.jpg",
     "static/media/daaimah_binary_name.png": "/Daaimah_Portfolio/static/media/daaimah_binary_name.63ad4adbeda5efa44d0e.png",
     "static/media/about.jpg": "/Daaimah_Portfolio/static/media/about.dc1e0069cf8ac05c2679.jpg",
     "static/media/coding_projects.png": "/Daaimah_Portfolio/static/media/coding_projects.d7ad2ef6fc959c345e76.png",
     "index.html": "/Daaimah_Portfolio/index.html",
     "main.f48a98bf.css.map": "/Daaimah_Portfolio/static/css/main.f48a98bf.css.map",
-    "main.d0e4a8f5.js.map": "/Daaimah_Portfolio/static/js/main.d0e4a8f5.js.map"
+    "main.ad17cc19.js.map": "/Daaimah_Portfolio/static/js/main.ad17cc19.js.map"
   },
   "entrypoints": [
     "static/css/main.f48a98bf.css",
-    "static/js/main.d0e4a8f5.js"
+    "static/js/main.ad17cc19.js"
   ]
 }
